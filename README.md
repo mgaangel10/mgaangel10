@@ -128,12 +128,8 @@
 
 </div>
 
----
 
-## 🪄 Tarjeta 3D de tu perfil
-<p align="center">
-  <img src="https://github.com/mgaangel10/mgaangel10/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%">
-</p>
+
 
 ---
 
@@ -148,9 +144,6 @@
 </a>
 </p>
 
----
 
-<!-- Frase final motivadora -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&width=700&lines=Construyo+software+con+propósito+y+creatividad;Siempre+aprendiendo+y+creciendo+como+developer;Let's+build+something+amazing+together!">
-</p>
+
+
