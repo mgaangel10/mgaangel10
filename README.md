@@ -75,16 +75,7 @@ Aplicación web orientada a la gestión y reserva de citas para barberías.
 
 ## 📊 Actividad en GitHub
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mgaangel10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgaangel10&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mgaangel10&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20contribuciones" width="96%" />
-
-</div>
 
 ---
 
