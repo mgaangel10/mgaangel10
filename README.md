@@ -7,48 +7,13 @@
 </a>
 
 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-📍 Sevilla, España · 🌍 Abierto a reubicación · 💻 Remoto o híbrido
+
 
 <a href="mailto:mg.aangel10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="www.linkedin.com/in/miguel-ángel-pérez-álvarez-7348272a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/mgaangel10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
-
----
-
-## 🚀 Sobre mí
-
-Desarrollador **Full Stack Junior** con experiencia real en desarrollo de software **web y móvil**.
-
-He trabajado en entornos profesionales y también como freelance, desarrollando aplicaciones completas desde el backend y la base de datos hasta la interfaz, autenticación, despliegue y puesta en producción.
-
-Actualmente busco seguir creciendo dentro de un equipo de desarrollo donde pueda aportar especialmente con **Java, Spring Boot, Angular/React, PostgreSQL y Docker**.
-
----
-
-## 💼 Experiencia
-
-### 🟦 Eviden — Full Stack Developer · Prácticas
-**Feb 2024 — Jul 2024 · Sevilla**
-
-- Participación en un equipo de **8 desarrolladores** creando desde cero una aplicación interna de gestión de reservas web y móvil, posteriormente desplegada en producción.
-- Desarrollo end-to-end con **Java, Spring Boot y Angular**.
-- Implementación de autenticación, validaciones, diseño responsive y lógica de reservas con restricciones y control de solapamientos.
-- Optimización de consultas complejas en **PostgreSQL** para reducir tiempos de respuesta.
-- Trabajo con **Docker, Git, PostgreSQL** y resolución de incidencias en producción.
-
-### 🟣 Full Stack Developer Freelance
-**Ene 2025 — Actualidad**
-
-He desarrollado soluciones para clientes reales, entre ellas:
-
-- 💈 **MimisBarber** — reservas, servicios, empleados, horarios, disponibilidad, notificaciones y panel administrativo.
-- 🧑‍⚕️ **FisiotTemp** — digitalización de citas de fisioterapia anteriormente gestionadas por WhatsApp.
-- 🛍️ **M.Boutique** — e-commerce con productos, stock, tallas, imágenes, ventas y administración.
-- 📦 **Abastecimiento Juan** — gestión local de inventario, productos, stock y ventas con Spring Boot y SQL.
-- 🏗️ **TechoPanel** — landing comercial optimizada con SEO y Google Analytics.
-
 ---
 
 ## 🧰 Stack técnico
@@ -117,28 +82,6 @@ Aplicación web orientada a la gestión y reserva de citas para barberías.
 </td>
 </tr>
 </table>
-
----
-
-## 🤖 Automatización e IA
-
-También trabajo con **automatización de procesos e inteligencia artificial**.
-
-He desarrollado flujos con **n8n** para automatizar la gestión de albaranes, conectando IA, bases de datos, **Telegram** y **Google Sheets** para registrar y hacer seguimiento automático de información.
-
-`n8n` · `OpenAI API` · `Python` · `FastAPI` · `Pandas` · `Telegram API` · `Google Sheets API`
-
----
-
-## 🎓 Formación
-
-🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-Salesianos Triana · 2022 — 2024
-
-📚 Formación complementaria en **Spring Boot, APIs REST, JWT, Mockito, Hibernate/JPA, Angular y Firebase**.
-
-🌐 **Inglés B2** · Español nativo
-
 ---
 
 ## 📊 GitHub
