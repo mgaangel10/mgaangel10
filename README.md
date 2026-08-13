@@ -93,17 +93,6 @@ Aplicación web orientada a la gestión y reserva de citas para barberías.
 
 </div>
 
----
 
-<div align="center">
 
-### 💬 Contacto
 
-**Busco oportunidades como Junior Full-Stack Developer.**
-
-<a href="mailto:mg.aangel10@gmail.com"><img src="https://img.shields.io/badge/Hablemos-Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/miguel-angel-perez-alvarez-7348272a5/"><img src="https://img.shields.io/badge/Conectar-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=mgaangel10&label=Visitas+al+perfil&color=00C2FF&style=flat" />
-
-</div>
