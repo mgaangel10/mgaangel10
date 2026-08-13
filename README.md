@@ -40,7 +40,6 @@
 
 </div>
 
----
 
 ## ⭐ Proyectos destacados
 
