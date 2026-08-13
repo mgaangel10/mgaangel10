@@ -54,23 +54,6 @@
 
 ## ⭐ Proyectos destacados
 
-<div align="center">
-
-<a href="https://github.com/mgaangel10/WherePlan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgaangel10&repo=WherePlan&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/mgaangel10/SerernityYRetreat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgaangel10&repo=SerernityYRetreat&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-
-<a href="https://github.com/mgaangel10/LocalGlovo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgaangel10&repo=LocalGlovo&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/mgaangel10/Barberbookingappweb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgaangel10&repo=Barberbookingappweb&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-
-</div>
 
 ### 📍 WherePlan
 Aplicación multiplataforma orientada a descubrir locales y conocer dónde está el ambiente.  
